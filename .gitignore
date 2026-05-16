@@ -1,0 +1,23 @@
+# Ignore everything by default. This repository is public OTA distribution only,
+# not the full factory flash package archive.
+*
+
+# Repository metadata.
+!.gitignore
+!.gitattributes
+
+# Public release metadata.
+!release-note.md
+!firmware-index.json
+!firmware-index.sig
+
+# Public OTA channel directories.
+!dev/
+!prod/
+!dev/*/
+!prod/*/
+
+# Public OTA payloads.
+!dev/*/im16m_esp32c6.bin
+!prod/*/im16m_esp32c6.bin
+
