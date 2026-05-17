@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-17T16:15:25Z",
+  "generatedAt": "2026-05-17T16:23:18Z",
   "repository": "https://github.com/innosonian/firmware_M16",
   "branch": "main",
   "rawBaseURL": "https://raw.githubusercontent.com/innosonian/firmware_M16/main/",
@@ -25,30 +25,6 @@
         }
       },
       {
-        "folderName": "20260518-v1.0.246",
-        "dateCode": 20260518,
-        "date": "2026-05-18",
-        "versionLabel": "v1.0.246",
-        "displayLabel": "v1.0.246 (2026-05-18)",
-        "payload": {
-          "path": "dev/20260518-v1.0.246/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "f807eba6974452a73bf128d14b16d0904aa3b6027dc34078730f9a46df6fdcf9"
-        }
-      },
-      {
-        "folderName": "20260515-v1.0.245",
-        "dateCode": 20260515,
-        "date": "2026-05-15",
-        "versionLabel": "v1.0.245",
-        "displayLabel": "v1.0.245 (2026-05-15)",
-        "payload": {
-          "path": "dev/20260515-v1.0.245/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "0e400cf7cda7a2b431666b1d084acb6f00e7b90d218ed8513a55b10a892e4820"
-        }
-      },
-      {
         "folderName": "20260427-v1.0.243",
         "dateCode": 20260427,
         "date": "2026-04-27",
@@ -61,18 +37,6 @@
         }
       },
       {
-        "folderName": "20260420-v1.0.228",
-        "dateCode": 20260420,
-        "date": "2026-04-20",
-        "versionLabel": "v1.0.228",
-        "displayLabel": "v1.0.228 (2026-04-20)",
-        "payload": {
-          "path": "dev/20260420-v1.0.228/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "718317728dac5fc05a943285e4dc08335a70a2cc7c839a7912ae1d7af84feb4a"
-        }
-      },
-      {
         "folderName": "20260414-v1.0.226",
         "dateCode": 20260414,
         "date": "2026-04-14",
@@ -82,102 +46,6 @@
           "path": "dev/20260414-v1.0.226/im16m_esp32c6.bin",
           "size": 1118208,
           "sha256": "9fc333056bfbdd64cbebe66620f0a151b2ebc9ad575b2c5e27b2ca578d36e61a"
-        }
-      },
-      {
-        "folderName": "20260402-v1.0.187",
-        "dateCode": 20260402,
-        "date": "2026-04-02",
-        "versionLabel": "v1.0.187",
-        "displayLabel": "v1.0.187 (2026-04-02)",
-        "payload": {
-          "path": "dev/20260402-v1.0.187/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "c7f5cae50dfe907cd0c71c06d01b1197144aa358bf3433d86fba2ba6309b3177"
-        }
-      },
-      {
-        "folderName": "20260331-v1.0.92",
-        "dateCode": 20260331,
-        "date": "2026-03-31",
-        "versionLabel": "v1.0.92",
-        "displayLabel": "v1.0.92 (2026-03-31)",
-        "payload": {
-          "path": "dev/20260331-v1.0.92/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "92cfa9479f9fbee440bc63c35a299d5521247393051b32e129a42e745f437c01"
-        }
-      },
-      {
-        "folderName": "20260330-v1.0.87",
-        "dateCode": 20260330,
-        "date": "2026-03-30",
-        "versionLabel": "v1.0.87",
-        "displayLabel": "v1.0.87 (2026-03-30)",
-        "payload": {
-          "path": "dev/20260330-v1.0.87/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "738cf4f3f4c9416f252c315dba9d632ffe0b2ac9a050e4808ef07f53977df280"
-        }
-      },
-      {
-        "folderName": "20260327-v1.0.81",
-        "dateCode": 20260327,
-        "date": "2026-03-27",
-        "versionLabel": "v1.0.81",
-        "displayLabel": "v1.0.81 (2026-03-27)",
-        "payload": {
-          "path": "dev/20260327-v1.0.81/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "6c2884851e36029718e0e1bfc43fa8b5cb309eed3777731ff80f86e795d671c1"
-        }
-      },
-      {
-        "folderName": "20260317-v1.0.59",
-        "dateCode": 20260317,
-        "date": "2026-03-17",
-        "versionLabel": "v1.0.59",
-        "displayLabel": "v1.0.59 (2026-03-17)",
-        "payload": {
-          "path": "dev/20260317-v1.0.59/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "64c163fa9332ea9a3c957b121bdc68c23b3d8517f10b9d20aae3eb1be260b60e"
-        }
-      },
-      {
-        "folderName": "20260313-v1.0.56",
-        "dateCode": 20260313,
-        "date": "2026-03-13",
-        "versionLabel": "v1.0.56",
-        "displayLabel": "v1.0.56 (2026-03-13)",
-        "payload": {
-          "path": "dev/20260313-v1.0.56/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "10f16fe78590b72da41e0d48584162efd2e8646f4f8033144e0362d5b2691d49"
-        }
-      },
-      {
-        "folderName": "20260313-v1.0.55",
-        "dateCode": 20260313,
-        "date": "2026-03-13",
-        "versionLabel": "v1.0.55",
-        "displayLabel": "v1.0.55 (2026-03-13)",
-        "payload": {
-          "path": "dev/20260313-v1.0.55/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "10f16fe78590b72da41e0d48584162efd2e8646f4f8033144e0362d5b2691d49"
-        }
-      },
-      {
-        "folderName": "20260313-v1.0.54",
-        "dateCode": 20260313,
-        "date": "2026-03-13",
-        "versionLabel": "v1.0.54",
-        "displayLabel": "v1.0.54 (2026-03-13)",
-        "payload": {
-          "path": "dev/20260313-v1.0.54/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "71a181220a77090545fffb9963b00c892773ee6ef2970b9a49c387cab1a2e9b9"
         }
       }
     ],
@@ -195,30 +63,6 @@
         }
       },
       {
-        "folderName": "20260518-v1.0.246",
-        "dateCode": 20260518,
-        "date": "2026-05-18",
-        "versionLabel": "v1.0.246",
-        "displayLabel": "v1.0.246 (2026-05-18)",
-        "payload": {
-          "path": "prod/20260518-v1.0.246/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "168e499b045bdcc2e095439847565442720a433a7c54098646e4886339aa09cf"
-        }
-      },
-      {
-        "folderName": "20260515-v1.0.245",
-        "dateCode": 20260515,
-        "date": "2026-05-15",
-        "versionLabel": "v1.0.245",
-        "displayLabel": "v1.0.245 (2026-05-15)",
-        "payload": {
-          "path": "prod/20260515-v1.0.245/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "2cef81facd8af3d06fe5b7bf8c9434ae29999501314a9688955efb29d7940cdd"
-        }
-      },
-      {
         "folderName": "20260427-v1.0.243",
         "dateCode": 20260427,
         "date": "2026-04-27",
@@ -231,18 +75,6 @@
         }
       },
       {
-        "folderName": "20260420-v1.0.228",
-        "dateCode": 20260420,
-        "date": "2026-04-20",
-        "versionLabel": "v1.0.228",
-        "displayLabel": "v1.0.228 (2026-04-20)",
-        "payload": {
-          "path": "prod/20260420-v1.0.228/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "8937a200959713b53f9f7c771420fe9efacb99615cc17fd09b8163946d17141d"
-        }
-      },
-      {
         "folderName": "20260414-v1.0.226",
         "dateCode": 20260414,
         "date": "2026-04-14",
@@ -252,102 +84,6 @@
           "path": "prod/20260414-v1.0.226/im16m_esp32c6.bin",
           "size": 1118208,
           "sha256": "254ac3857626652b58644c89ddc4bd7362c3db4bd75f46ef657f5b94559ed36a"
-        }
-      },
-      {
-        "folderName": "20260402-v1.0.187",
-        "dateCode": 20260402,
-        "date": "2026-04-02",
-        "versionLabel": "v1.0.187",
-        "displayLabel": "v1.0.187 (2026-04-02)",
-        "payload": {
-          "path": "prod/20260402-v1.0.187/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "56e1fb7bfcf5bc8c73004fc6eefc73b41fdece3d912d9d1336b3245d89e2e4e6"
-        }
-      },
-      {
-        "folderName": "20260331-v1.0.92",
-        "dateCode": 20260331,
-        "date": "2026-03-31",
-        "versionLabel": "v1.0.92",
-        "displayLabel": "v1.0.92 (2026-03-31)",
-        "payload": {
-          "path": "prod/20260331-v1.0.92/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "25ff0fa006a419d1c1b025d8ed68956776b5e0e349c6581b15d38316ea8f0848"
-        }
-      },
-      {
-        "folderName": "20260330-v1.0.87",
-        "dateCode": 20260330,
-        "date": "2026-03-30",
-        "versionLabel": "v1.0.87",
-        "displayLabel": "v1.0.87 (2026-03-30)",
-        "payload": {
-          "path": "prod/20260330-v1.0.87/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "c55bd82459cfb4bd3c305365905fa3fbdc95f622b3e39bf43dc3bfefaf3aa4ff"
-        }
-      },
-      {
-        "folderName": "20260327-v1.0.81",
-        "dateCode": 20260327,
-        "date": "2026-03-27",
-        "versionLabel": "v1.0.81",
-        "displayLabel": "v1.0.81 (2026-03-27)",
-        "payload": {
-          "path": "prod/20260327-v1.0.81/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "cb6ca4e3e90ce874872fe83f63179ca8041bcd81f351e6d5157cb6b800d32fa5"
-        }
-      },
-      {
-        "folderName": "20260317-v1.0.59",
-        "dateCode": 20260317,
-        "date": "2026-03-17",
-        "versionLabel": "v1.0.59",
-        "displayLabel": "v1.0.59 (2026-03-17)",
-        "payload": {
-          "path": "prod/20260317-v1.0.59/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "b050e910f4bb2e2706b8c984b096b26c6e3ec57be23a3b7aa952aa37d6870d0d"
-        }
-      },
-      {
-        "folderName": "20260313-v1.0.56",
-        "dateCode": 20260313,
-        "date": "2026-03-13",
-        "versionLabel": "v1.0.56",
-        "displayLabel": "v1.0.56 (2026-03-13)",
-        "payload": {
-          "path": "prod/20260313-v1.0.56/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "5ee09c42ca57622232b7edec5ee295f893323e5248c727c45daba60decda1644"
-        }
-      },
-      {
-        "folderName": "20260313-v1.0.55",
-        "dateCode": 20260313,
-        "date": "2026-03-13",
-        "versionLabel": "v1.0.55",
-        "displayLabel": "v1.0.55 (2026-03-13)",
-        "payload": {
-          "path": "prod/20260313-v1.0.55/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "77971dd73ba65a9ed2e0936291b70ad59a94fdd850a6b7cc2dbc7e943945745e"
-        }
-      },
-      {
-        "folderName": "20260313-v1.0.54",
-        "dateCode": 20260313,
-        "date": "2026-03-13",
-        "versionLabel": "v1.0.54",
-        "displayLabel": "v1.0.54 (2026-03-13)",
-        "payload": {
-          "path": "prod/20260313-v1.0.54/im16m_esp32c6.bin",
-          "size": 1118208,
-          "sha256": "455b593e000fd6f07f6170435ecfcc7fdd4a05d9a52263e66653585c6845766a"
         }
       }
     ]
