@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-16T00:00:00.000Z",
+  "generatedAt": "2026-05-17T15:27:14Z",
   "repository": "https://github.com/innosonian/firmware_M16",
   "branch": "main",
   "rawBaseURL": "https://raw.githubusercontent.com/innosonian/firmware_M16/main/",
@@ -12,6 +12,18 @@
   },
   "channels": {
     "dev": [
+      {
+        "folderName": "20260518-v1.0.246",
+        "dateCode": 20260518,
+        "date": "2026-05-18",
+        "versionLabel": "v1.0.246",
+        "displayLabel": "v1.0.246 (2026-05-18)",
+        "payload": {
+          "path": "dev/20260518-v1.0.246/im16m_esp32c6.bin",
+          "size": 1118208,
+          "sha256": "f807eba6974452a73bf128d14b16d0904aa3b6027dc34078730f9a46df6fdcf9"
+        }
+      },
       {
         "folderName": "20260515-v1.0.245",
         "dateCode": 20260515,
@@ -158,6 +170,18 @@
       }
     ],
     "prod": [
+      {
+        "folderName": "20260518-v1.0.246",
+        "dateCode": 20260518,
+        "date": "2026-05-18",
+        "versionLabel": "v1.0.246",
+        "displayLabel": "v1.0.246 (2026-05-18)",
+        "payload": {
+          "path": "prod/20260518-v1.0.246/im16m_esp32c6.bin",
+          "size": 1118208,
+          "sha256": "168e499b045bdcc2e095439847565442720a433a7c54098646e4886339aa09cf"
+        }
+      },
       {
         "folderName": "20260515-v1.0.245",
         "dateCode": 20260515,
