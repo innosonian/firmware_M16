@@ -11,6 +11,12 @@
 !firmware-index.json
 !firmware-index.sig
 
+# Public policy pages.
+!docs/
+!docs/privacy/
+!docs/privacy/m16-device-tool/
+!docs/privacy/m16-device-tool/index.html
+
 # Public OTA channel directories.
 !dev/
 !prod/
@@ -20,4 +26,3 @@
 # Public OTA payloads.
 !dev/*/im16m_esp32c6.bin
 !prod/*/im16m_esp32c6.bin
-
